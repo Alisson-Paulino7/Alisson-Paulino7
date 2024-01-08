@@ -15,7 +15,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 26 years old, currently living in Brazil. I have experience with SQL, Python, Django, PHP, MySQL and PostgreSQL. I have a degree in Systems Analysis and Development and have completed an internship as a Backend developer, where I worked on creating an internship system for the university and a platform for employee attendance registration. Additionally, I work in technical support, installing and configuring various hardware and software.
+  - 💬 I am 26 years old, currently living in Brazil. I have a degree in Systems Analysis and Development and have completed an internship as a Backend developer, where I worked on creating an internship system for the university and a platform for employee attendance registration. Additionally, I work in technical support, installing and configuring various hardware and software.
 
   - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
 
